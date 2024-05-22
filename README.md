@@ -7,3 +7,4 @@ SQL Database link: https://drive.google.com/file/d/1Gyr67oACXERzhjBaVBjY2iAKyvZd
 
 Import the aforementioned DB into any SQL software and run the querries. (Ex: Valentina DB which is free source)
 
+[Check here the exercises.](QueryExercises.sql)
